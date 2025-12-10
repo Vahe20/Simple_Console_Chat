@@ -34,7 +34,7 @@ project/
 
 ## Configuration
 ### All settings are stored inside the .env file:
-PORT=""
-MAX_CLIENTS=""
-LOG_FILE=""
-LOG_DIR=""
+- PORT=""
+- MAX_CLIENTS=""
+- LOG_FILE=""
+- LOG_DIR=""
