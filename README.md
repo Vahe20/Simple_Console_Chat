@@ -22,15 +22,15 @@ It supports multiple clients, username management, private messaging, logging, s
 ## Project Structure
 
 project/
-├── chat-server.js # Main TCP server logic
-├── utils
-│ ├── helpers.js # Commands, broadcast, utilities
-│ └── logger.js # Logging system (file-based)
-├── logs/
-├── .env # Server configuration variables
-├── .gitignore
-├── package.json # Dependencies + scripts
-├── README.md
+- ├── chat-server.js # Main TCP server logic
+- ├── utils
+- │ ├── helpers.js # Commands, broadcast, utilities
+- │ └── logger.js # Logging system (file-based)
+- ├── logs/
+- ├── .env # Server configuration variables
+- ├── .gitignore
+- ├── package.json # Dependencies + scripts
+- ├── README.md
 
 ## Configuration
 ### All settings are stored inside the .env file:
