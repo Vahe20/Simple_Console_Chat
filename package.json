@@ -1,0 +1,15 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "Client.js",
+  "scripts": {
+    "start": "node chat-server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
